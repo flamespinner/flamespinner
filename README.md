@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="left">Howdy! <img src="https://cdn.discordapp.com/emojis/1012046134694396075.gif?size=96&quality=lossless" height="40" width="40" alt="calico howdy emote" /> </h1>
-
-###
-
-<p align="left"></p>
+<h1 align="left">Howdy! My name is Michael <img src="https://cdn.discordapp.com/emojis/1012046134694396075.gif?size=96&quality=lossless" height="40" width="40" alt="calico howdy emote" /> </h1>
 
 ###
 
