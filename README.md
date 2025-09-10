@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Michael  
 
-💻 **Database Engineer | DBA | IT Professional**  
+💻 **Database Engineer | Database Administrator | IT Professional**  
 🎮 **Game Developer (RedM / RDR2 Multiplayer Modding)**  
 
 > ☀️ By day I manage SQL databases and engineer backend solutions.  
