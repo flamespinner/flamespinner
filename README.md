@@ -59,7 +59,8 @@
 - 🎮 Passionate about building immersive multiplayer worlds in **RedM**  
 - 📊 Love working with data — from databases to analytics  
 - ☕ Powered by coffee & curiosity  
-- 🔧 Forever tinkering with servers, code, and new tech  
+- 🔧 Forever tinkering with servers, code, and new tech
+- 🤝 Love working with others. Let's collaborate on something!
 
 ---
 
