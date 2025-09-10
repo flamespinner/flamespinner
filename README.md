@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Michael  
 
 💻 **Data Engineer | Database Administrator | IT Professional**  
-🎮 **Game Developer (RedM / RDR2 Multiplayer Modding)**  
+🎮 **Game Developer ([RedM](https://redm.gg/) / RDR2 Multiplayer Modding)**  
 
 > ☀️ By day I manage SQL databases and engineer backend solutions.  
 > 🌙 By night I develop immersive multiplayer game resources for **RedM** (a modding platform for Red Dead Redemption 2).  
@@ -11,28 +11,27 @@
 
 ## 🚀 Tech Stack  
 
-![SQL Server](https://skillicons.dev/icons?i=mssql)  
-![Python](https://skillicons.dev/icons?i=python)  
-![Docker](https://skillicons.dev/icons?i=docker)  
-![Node.js](https://skillicons.dev/icons?i=nodejs)  
-![React](https://skillicons.dev/icons?i=react)  
-![JavaScript](https://skillicons.dev/icons?i=js)  
-![Lua](https://skillicons.dev/icons?i=lua)  
-![HTML](https://skillicons.dev/icons?i=html)  
-![CSS](https://skillicons.dev/icons?i=css)  
+**Core Skills:**  
+[![SQL Server](https://skillicons.dev/icons?i=mssql)]() [![Python](https://skillicons.dev/icons?i=python)]() [![Docker](https://skillicons.dev/icons?i=docker)]()  
+
+**Web & Scripting:**  
+[![Node.js](https://skillicons.dev/icons?i=nodejs)]() [![React](https://skillicons.dev/icons?i=react)]() [![JavaScript](https://skillicons.dev/icons?i=js)]() [![Lua](https://skillicons.dev/icons?i=lua)]()  
+
+**Frontend / Markup:**  
+[![HTML](https://skillicons.dev/icons?i=html)]() [![CSS](https://skillicons.dev/icons?i=css)]() [![GitHub Actions](https://skillicons.dev/icons?i=githubactions)]()  
 
 ---
 
 ## 🌟 Featured Projects  
 
-🔒 **Calico County RP – RedM Framework**  
-*Private repository — Custom modular scripting system for Red Dead Redemption 2 multiplayer (RedM). Includes crafting, housing, skills, and immersive roleplay mechanics.*  
+🔒 **Calico County RP – RedM Roleplay Server**  
+*Private repository — Community-driven server for Red Dead Redemption 2 multiplayer ([RedM](https://redm.gg/)). Evolving into modular resources that provide crafting, housing, skills, and immersive roleplay mechanics.*  
 
 📊 **SQL Automation Suite**  
-*ETL pipelines and automated SQL Server imports using PowerShell, Javascript + SSIS for enterprise workloads.*  
+*ETL pipelines and automated SQL Server imports using PowerShell, JavaScript + SSIS for enterprise workloads.*  
 
 ⚙️ **Full-Stack Playground**  
-*React + Node.js projects experimenting with data visualization and API integration.*  
+*React + Node.js projects experimenting with data visualization, API integration, and GitHub Actions CI/CD workflows.*  
 
 ---
 
@@ -68,9 +67,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelwfwilke/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](http://michaelwilke.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mwilke199752@gmail.com)  
-
----
-
-🐍 Contribution Graph Snake  
-![snake gif](https://github.com/flamespinner/blob/output/github-contribution-grid-snake.svg)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mwilke199752@gmail.com)
