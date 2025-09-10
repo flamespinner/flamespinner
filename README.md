@@ -12,7 +12,7 @@
 ## 🚀 Tech Stack  
 
 **Core Skills:**  
-[![SQL Server](https://skillicons.dev/icons?i=mssql)]() [![Python](https://skillicons.dev/icons?i=python)]() [![Docker](https://skillicons.dev/icons?i=docker)]()  
+[![SQL Server](https://skillicons.dev/icons?i=mysql)]() [![Python](https://skillicons.dev/icons?i=python)]() [![Docker](https://skillicons.dev/icons?i=docker)]()  
 
 **Web & Scripting:**  
 [![Node.js](https://skillicons.dev/icons?i=nodejs)]() [![React](https://skillicons.dev/icons?i=react)]() [![JavaScript](https://skillicons.dev/icons?i=js)]() [![Lua](https://skillicons.dev/icons?i=lua)]()  
