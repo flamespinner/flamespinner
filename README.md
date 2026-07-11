@@ -19,7 +19,7 @@
 
 🎮 **Calico County RP – RedM Roleplay Server**
 Lead developer on a community RedM (RDR2 multiplayer) server — Lua-based gameplay systems and JS/NUI front-ends covering crafting, housing, skills, and roleplay mechanics.
-[`bcc-corehud`](https://github.com/flamespinner/bcc-corehud) · [`RDR3natives`](https://github.com/flamespinner/RDR3natives) · [`Calico-County-Bot`](https://github.com/flamespinner/Calico-County-Bot)
+ [`Calico-County-Bot`](https://github.com/flamespinner/Calico-County-Bot)
 
 🛠️ **IT Infrastructure & Automation**
 Custom PowerShell/Python tooling for fleet and infrastructure management — scripts and small apps built to fill gaps in day-to-day IT/data operations.
