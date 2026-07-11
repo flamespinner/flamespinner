@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Michael (Cinder)
 
 💻 **Data Analyst | IT Systems Administrator**
-🎮 **Lead Developer, [Calico County](https://calicocountyrp.com) (RedM / RDR2 Multiplayer Modding)**
+🎮 **Lead Developer, [Calico County](http://calicocountyrp.com) (RedM / RDR2 Multiplayer Modding)**
 
 > ☀️ By day I manage IT infrastructure and build custom tools/apps to fill whatever need my team has.
 > 🌙 By night I'm lead dev on **Calico County**, a Red Dead RP server — Lua gameplay systems + JS (NUI) front-ends.
