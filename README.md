@@ -1,41 +1,32 @@
-# 👋 Hi, I’m Michael  
+# 👋 Hi, I'm Michael (Cinder)
 
-💻 **Data Engineer | Database Administrator | IT Professional**  
-🎮 **Game Developer ([RedM](https://redm.gg/) / RDR2 Multiplayer Modding)**  
+💻 **Data Analyst | IT Systems Administrator**
+🎮 **Lead Developer, [Calico County](https://calicocountyrp.com) (RedM / RDR2 Multiplayer Modding)**
 
-> ☀️ By day I manage SQL databases and engineer backend solutions.  
-> 🌙 By night I develop immersive multiplayer game resources for **RedM** (a modding platform for Red Dead Redemption 2).  
-> ⚡ Always exploring new ways to push projects further.  
-
----
-
-## 🚀 Tech Stack  
-
-**Core Skills:**  
-[![SQL Server](https://skillicons.dev/icons?i=mysql)]() [![Python](https://skillicons.dev/icons?i=python)]() [![Docker](https://skillicons.dev/icons?i=docker)]()  
-
-**Web & Scripting:**  
-[![Node.js](https://skillicons.dev/icons?i=nodejs)]() [![React](https://skillicons.dev/icons?i=react)]() [![JavaScript](https://skillicons.dev/icons?i=js)]() [![Lua](https://skillicons.dev/icons?i=lua)]()  
-
-**Frontend / Markup:**  
-[![HTML](https://skillicons.dev/icons?i=html)]() [![CSS](https://skillicons.dev/icons?i=css)]() [![GitHub Actions](https://skillicons.dev/icons?i=githubactions)]()  
+> ☀️ By day I manage IT infrastructure and build custom tools/apps to fill whatever need my team has.
+> 🌙 By night I'm lead dev on **Calico County**, a Red Dead RP server — Lua gameplay systems + JS (NUI) front-ends.
+> 🔴 I stream dev work on Twitch — come watch stuff get built (and occasionally broken).
 
 ---
 
-## 🌟 Featured Projects  
+## 🚀 Tech Stack
 
-🔒 **Calico County RP – RedM Roleplay Server**  
-*Private repository — Community-driven server for Red Dead Redemption 2 multiplayer ([RedM](https://redm.gg/)). Evolving into modular resources that provide crafting, housing, skills, and immersive roleplay mechanics.*  
-
-📊 **SQL Automation Suite**  
-*ETL pipelines and automated SQL Server imports using PowerShell, JavaScript + SSIS for enterprise workloads.*  
-
-⚙️ **Full-Stack Playground**  
-*React + Node.js projects experimenting with data visualization, API integration, and GitHub Actions CI/CD workflows.*  
+[![JavaScript](https://skillicons.dev/icons?i=js)]() [![Lua](https://skillicons.dev/icons?i=lua)]() [![Python](https://skillicons.dev/icons?i=python)]() [![PowerShell](https://skillicons.dev/icons?i=powershell)]() [![MySQL](https://skillicons.dev/icons?i=mysql)]() [![HTML](https://skillicons.dev/icons?i=html)]() [![CSS](https://skillicons.dev/icons?i=css)]()
 
 ---
 
-## 📈 GitHub Stats  
+## 🌟 Featured Projects
+
+🎮 **Calico County RP – RedM Roleplay Server**
+Lead developer on a community RedM (RDR2 multiplayer) server — Lua-based gameplay systems and JS/NUI front-ends covering crafting, housing, skills, and roleplay mechanics.
+[`bcc-corehud`](https://github.com/flamespinner/bcc-corehud) · [`RDR3natives`](https://github.com/flamespinner/RDR3natives) · [`Calico-County-Bot`](https://github.com/flamespinner/Calico-County-Bot)
+
+🛠️ **IT Infrastructure & Automation**
+Custom PowerShell/Python tooling for fleet and infrastructure management — scripts and small apps built to fill gaps in day-to-day IT/data operations.
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=flamespinner&theme=radical&hide_border=true" alt="GitHub Streak"/>
@@ -49,23 +40,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flamespinner&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=flamespinner&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="Trophies"/>
-</p>
-
 ---
 
-## 🎯 Fun Facts  
-- 🎮 Passionate about building immersive multiplayer worlds in **RedM**  
-- 📊 Love working with data — from databases to analytics  
-- ☕ Powered by coffee & curiosity  
+## 🎯 Fun Facts
+- 🎮 Passionate about building immersive multiplayer worlds in **RedM**
+- 📊 Love working with data — from databases to analytics
+- ☕ Powered by coffee & curiosity
 - 🔧 Forever tinkering with servers, code, and new tech
 - 🤝 Love working with others. Let's collaborate on something!
 
 ---
 
-## 📬 Let’s Connect  
+## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelwfwilke/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](http://michaelwilke.com)  
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white)](https://twitch.tv/agent_flame)
+[![Calico County](https://img.shields.io/badge/Calico%20County-8B0000?logo=redhat&logoColor=white)](https://calicocountyrp.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelwfwilke/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](http://michaelwilke.com)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mwilke199752@gmail.com)
