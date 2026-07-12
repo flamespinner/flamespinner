@@ -11,7 +11,7 @@
 
 ## 🚀 Tech Stack
 
-[![JavaScript](https://skillicons.dev/icons?i=js)]() [![Lua](https://skillicons.dev/icons?i=lua)]() [![Python](https://skillicons.dev/icons?i=python)]() [![PowerShell](https://skillicons.dev/icons?i=powershell)]() [![MySQL](https://skillicons.dev/icons?i=mysql)]() [![HTML](https://skillicons.dev/icons?i=html)]() [![CSS](https://skillicons.dev/icons?i=css)]()
+[![JavaScript](https://skillicons.dev/icons?i=js)]() [![Lua](https://skillicons.dev/icons?i=lua)]() [![Python](https://skillicons.dev/icons?i=python)]() [![PowerShell](https://skillicons.dev/icons?i=powershell)]() [![MySQL](https://skillicons.dev/icons?i=mysql)]() [![HTML](https://skillicons.dev/icons?i=html)]() [![CSS](https://skillicons.dev/icons?i=css)]() [![windows](https://skillicons.dev/icons?i=windows)]() [![vite](https://skillicons.dev/icons?i=vite)]() [![nodejs](https://skillicons.dev/icons?i=nodejs)]() [![nginx](https://skillicons.dev/icons?i=nginx)]() [![linux](https://skillicons.dev/icons?i=linux)]() [![docker](https://skillicons.dev/icons?i=docker)]() [![discordjs](https://skillicons.dev/icons?i=discordjs)]() [![azure](https://skillicons.dev/icons?i=azure)]() [![mysql](https://skillicons.dev/icons?i=mysql)]()
 
 ---
 
