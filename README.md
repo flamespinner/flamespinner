@@ -33,7 +33,7 @@ Custom PowerShell/Python tooling for fleet and infrastructure management — scr
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=flamespinner&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=flamespinner&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
