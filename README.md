@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Michael (Cinder)
+# 👋 Hi, I'm Michael
 
 💻 **Data Analyst | IT Systems Administrator**
 🎮 **Lead Developer, [Calico County](http://calicocountyrp.com) (RedM / RDR2 Multiplayer Modding)**
