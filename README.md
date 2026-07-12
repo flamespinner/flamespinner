@@ -37,7 +37,7 @@ Custom PowerShell/Python tooling for fleet and infrastructure management — scr
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flamespinner&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="github-stats-extended.vercel.app/api/top-langs/?username=flamespinner&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
